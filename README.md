@@ -18,7 +18,10 @@
 Чтобы выделить текст, как код, поместите его в тройные кавычки '''''.
 
 '''
-mkdir my_project
-cd my_project
-git init
+mkdir my_project  
+cd my_project  
+git init  
+'''
+'''html
+<h1>Просто текст</h1>
 '''
